@@ -2,7 +2,9 @@
 
 ## Description
 
-This repository contains a JavaScript-based tool for performing I Ching divinations. The script simulates the traditional coin-toss method used in the I Ching (also known as the Book of Changes, an ancient Chinese divination text), generating hexagrams and their corresponding interpretations.
+This repository contains a JavaScript-based tool for performing I Ching divinations. The script simulates the [traditional coin-toss method](https://aiching.app/how-to-consult-the-i-ching/) used in the I Ching (also known as the Book of Changes, an ancient Chinese divination text), generating hexagrams and their corresponding interpretations.
+
+The script was created for users who want to cast hexagrams on the [aiching.app](https://aiching.app) website. Users could use the app on their phone but we wanted to create an option for people who maybe could not download the app. It was also created to accompany the book [Embracing Life's Journey Your Guide to Personal Growth with the I Ching](https://www.amazon.com/dp/B0C9SFNR4P)
 
 ## Features
 
