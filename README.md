@@ -12,6 +12,8 @@ The script was created for users who want to cast hexagrams on the [aiching.app]
 - Identifies "changing lines" within the hexagram, which indicate potential transformations to a different hexagram.
 - Links to external resources for interpretation of each hexagram, with additional notes for handling changing lines.
 
+![I Ching hexagram](https://github.com/jamesgodwin/I-Ching-Divination-Script/blob/main/readme-images/hexagram.png)
+
 ## Demo
 
 Check out a live demo of the application [here](https://aiching.app/consult-the-i-ching/).
